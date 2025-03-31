@@ -1,4 +1,4 @@
 {
-  "version": "1.1.0",
-  "update_firmware_url": "https://raw.githubusercontent.com/LongTran1010/OTA/main/update_firmware.bin"
+  "fw_version_new": "1.1.0",
+  "fw_url_new": "https://raw.githubusercontent.com/LongTran1010/OTA/main/update_firmware.bin"
 }
